@@ -39,3 +39,12 @@ FirstName = input("Enter first name: ")
 LastName = input("Enter last name: ")
 Age = input("Enter age: ")
 print(FirstName, LastName, Age)
+
+# Question 8
+print(f"{FirstName}\n {LastName}\n {Age}")
+
+# Question 9
+Email = input("Enter your email: ")
+EmailSPlit = Email.split("@")
+Username = EmailSPlit[0]
+print(len(Username))
