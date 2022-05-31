@@ -21,7 +21,7 @@
 #
 # # Question 4
 # Promt = input("Enter anything: ")
-# print(Promt.upper())
+# # print(Promt.upper())
 #
 # # Question 5
 # Email = input("Enter your email: ")
@@ -30,7 +30,6 @@
 # UsernameSplitter = Username.split('.')
 # FirstName = UsernameSplitter[0]
 # LastName = UsernameSplitter[1]
-#
 # # Question 6
 # print(f"Hello {FirstName} {LastName}")
 #
