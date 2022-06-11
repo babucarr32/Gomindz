@@ -9,4 +9,8 @@ myNewSet = {2, 5, 10, 5, 6, 8, 2, 10}
 myNewSet.add('sundiata')
 myNewSet.update('mustapha')
 
+
+
+
 print(myNewSet)
+print(dir(myNewSet))
