@@ -46,7 +46,8 @@
 # Friends = ["Baboucarr", "Mustapha", "Ansumana", "Cherno", "Yunusa"]
 # Friends.sort()
 # print(Friends)
-# import random
-# names = ['Babucarr', "Modou", "Abdou"]
-# choice = random.choice(names)
-# print(f"{choice} will make the payments")
+import random
+
+names = input('Enter names: ')
+choice = random.choice(names)
+print(f"{choice} will make the payments")
