@@ -15,3 +15,6 @@ x[1] = "sundiata"
 # print(Mahmoud)
 
 print(myTuple.index('Jainaba'))
+x = 5
+y = 5
+print((x != y))
